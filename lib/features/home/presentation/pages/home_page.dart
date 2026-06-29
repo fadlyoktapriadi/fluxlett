@@ -312,7 +312,7 @@ class HomePage extends StatelessWidget {
                                   Text(
                                     "Transaction ${index + 1}",
                                     style:
-                                        AppTheme.appTypography.medium.copyWith(
+                                        AppTheme.appTypography.semiBold.copyWith(
                                       fontSize: 14.sp,
                                     ),
                                   ),
