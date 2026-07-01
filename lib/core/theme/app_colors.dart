@@ -15,5 +15,7 @@ class AppColors {
   Color softGrey = const Color(0xFFBDBDBD);
   Color softBlack = const Color(0xFF2D2D2D);
   Color white = const Color(0xFFFFFFFF);
+  Color grey = const Color(0xFF7A8296);
+  Color surface = const Color(0xFFF4F4F4);
 
 }
